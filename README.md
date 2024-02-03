@@ -92,4 +92,4 @@ audio signaling devices, numerical output devices (RFID data to tag)
 #### 7. Body language (visual signals) – 
 stack lights, display screens, indicator lights, panel meters
 
-### from chat gpt
+```Source: Chat gpt```
